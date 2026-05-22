@@ -5,3 +5,8 @@
       user:
         name: ravi
         state: present
+
+    - name: add git package
+      yum:
+        name: git
+        state: present
