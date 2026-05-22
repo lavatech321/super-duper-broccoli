@@ -1,5 +1,16 @@
-# super-duper-broccoli
+# CICD Data Science Project With Terraform
 
-This is always open as first page of repository
+Technologies used:
+* Terraform
+* Python
+* Ansible
+* Docker
+* Kubernetes
+* Jenkins
 
-No matter how many files/folders are present, you will always notice only this page is open as first page
+To execute this repository, run below commands:
+
+```sh
+# git clone repo-url
+# ansible-playbook -i inventory main.yaml
+```
